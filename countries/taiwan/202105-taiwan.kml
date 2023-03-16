@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>20210511 台灣 1202, 1203</name>
+    <description>Case 1202, 1203</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>案 1202</name>
+      <Placemark>
+        <name>案 1202 05/07</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T00:00:00;end:2021-05-07T08:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.772005,24.6795451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>案 1202 05/08</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T00:00:00;end:2021-05-08T08:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.772,24.67954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>案 1202 05/09</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T00:00:00;end:2021-05-09T08:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.772,24.67954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/04 晚上 (調查中) 晶華亭宴會廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-04T19:00:00;end:2021-05-04T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.454646,25.0416979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/06 約 16:00~17:30 來來按摩 《蘆洲長安店》</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-06T15:00:00;end:2021-05-06T18:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.460775,25.081665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 06:00~06:30 菜市場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T06:00:00;end:2021-05-07T06:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.457889,25.0541399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/06 19:00~21:00 大風車婚宴餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-06T19:00:00;end:2021-05-06T21:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4803224,25.0820309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07~05/08 11:00~20:30 楊老爹黃金肉圓</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T11:00:00;end:2021-05-08T20:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4464988,25.0420505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 16:00~18:00 遠東 SOGO 台北復興館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T16:00:00;end:2021-05-07T18:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.542942,25.0411353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 約 07:30~08:30 三重力行菜市場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T07:00:00;end:2021-05-08T09:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4867453,25.0675786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 12:30~13:30 菘賓餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T12:30:00;end:2021-05-08T13:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4384842,25.0877151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 19:00~21:00 阿秋越南小吃店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T19:00:00;end:2021-05-08T21:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4726708,25.0842625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 19:30~21:00 林口三井 Outlet</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T19:30:00;end:2021-05-08T21:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.3647993,25.0705502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 晚上 醐同燒肉夜食五號店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T18:00:00;end:2021-05-08T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5679057,25.0355169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 10:30 國父紀念館 巧虎奇幻音樂世界演奏會</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T09:00:00;end:2021-05-08T13:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5602452,25.0400306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 方記三杯滷味</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T00:00:00;end:2021-05-08T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.291593,25.0497842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 晚上 海霸王餐廳蘆洲店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T18:00:00;end:2021-05-08T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4784103,25.0816565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 07:00~12:00 基隆八斗子釣魚</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T07:00:00;end:2021-05-09T12:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.7962777,25.1411143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 08:00~12:00 成泰里守望相助活動中心</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T08:00:00;end:2021-05-09T12:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4424377,25.089817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 11:00~14:00 好市多 Costco 新莊店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T11:00:00;end:2021-05-09T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.434206,25.0273744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 二泉湖畔咖啡</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T00:00:00;end:2021-05-10T00:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.9855324,24.6755274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 中午 下城老地方酒餐館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T00:00:00;end:2021-05-10T00:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5234198,24.9636043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 下午 新竹市城隍廟</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T00:00:00;end:2021-05-10T00:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.966147,24.8042436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 晚上 天母銀座日式料理</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T18:00:00;end:2021-05-10T00:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5280683,25.1077333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 14:00~15:00 尚井日式涮涮鍋</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T14:00:00;end:2021-05-10T15:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.480833,25.066565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 18:00~19:30 人从众厚切牛排-蘆洲店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T18:00:00;end:2021-05-09T19:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4625994,25.0835028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09 約 19:00 松風日本料理</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T18:00:00;end:2021-05-09T23:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.31448,25.015953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/10 約 12:00 好市多 Costco 北投店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-10T11:00:00;end:2021-05-10T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4704272,25.1276792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/10 中午 英芳飯店海鮮餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-10T11:00:00;end:2021-05-10T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5658696,25.2915313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/10 14:00~17:30 茶自點（中正店）</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-10T14:00:00;end:2021-05-10T18:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.302473,25.0077529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/10 下午 康舒工程</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-10T14:00:00;end:2021-05-11T00:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4482734,25.2025755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/10 18:00~19:00 孫東寶牛排館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-10T17:00:00;end:2021-05-10T20:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4593567,25.0875783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>05/01 07:00 自磅磅仔三府宮出發</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T07:00:00;end:2021-05-01T08:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.8261645,25.1209841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/01 10:00 南投竹山紫南宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T10:00:00;end:2021-05-01T12:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.7225876,23.8171616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/01 12:00 南投竹山丸滿餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T12:00:00;end:2021-05-01T13:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.714988,23.803539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/01 13:00~14:00 台南府城正統鹿耳門</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T13:00:00;end:2021-05-01T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.1273734,23.0677121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/01 13:00~14:00 萬國通路創意觀光工廠</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T13:00:00;end:2021-05-01T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.2778068,22.9351511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/01 17:00 高雄市大寮朝鳳宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T17:00:00;end:2021-05-01T20:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.409248,22.619636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/01 20:30~05/02 07:00 高雄市金獅湖保安宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-01T20:30:00;end:2021-05-02T08:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.3269494,22.6661259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02 13:00 鹿港天后宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T12:00:00;end:2021-05-02T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.4314407,24.0593071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02 13:00 雲林東勢開安宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T12:00:00;end:2021-05-02T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.2664086,23.7096665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02 13:00~18:00 台中沙鹿金福華餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T13:00:00;end:2021-05-02T18:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.5818515,24.2503532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02 13:00~18:00 苗栗白沙屯拱天宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T13:00:00;end:2021-05-02T18:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.7092086,24.5714179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02 13:00~18:00 後龍乾富宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T13:00:00;end:2021-05-02T18:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.7743502,24.6040643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02 18:00 土城古都餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T17:00:00;end:2021-05-02T19:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4377736,24.9714212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/02~05/07 11:00~18:00 鴻達茶藝館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-02T10:00:00;end:2021-05-06T19:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4981165,25.0361044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/06~05/11 14:00~22:00 美金飲酒店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-06T13:00:00;end:2021-05-11T23:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4981758,25.0360985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/04~05/08 11:00~18:00 鴻達茶藝館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-04T11:00:00;end:2021-05-08T18:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5007249,25.036193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 09:00~10:00 基隆信義市場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T09:00:00;end:2021-05-07T10:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.7527269,25.1295671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 09:00~10:00 基隆信義市場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T09:00:00;end:2021-05-07T10:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.7524816,25.1295585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 17:30~23:30 良食小吃店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T17:30:00;end:2021-05-07T23:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4984589,25.0362396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 中午~18:00 珠海飲酒店(珠海清茶館)</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T11:30:00;end:2021-05-07T18:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4980199,25.0362253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 約中午前 鹿港竹安宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T11:00:00;end:2021-05-07T13:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.4560019,24.0796104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 午餐 芳苑普天宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T11:30:00;end:2021-05-07T14:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.316697,23.9291478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 約下午 北港朝天宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T12:30:00;end:2021-05-07T19:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.3046447,23.5678056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 晚餐 布袋嘉應廟</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T18:00:00;end:2021-05-07T21:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.1573736,23.3780597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 約晚上 新塭嘉應廟</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T18:00:00;end:2021-05-07T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.1603792,23.3270048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 午餐 新塭嘉應廟沖水路</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T11:00:00;end:2021-05-08T13:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.1603792,23.3270048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 晚餐 桃園龍潭儷宴餐廳</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T19:00:00;end:2021-05-08T23:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.2219698,24.8650925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 約 06:00 青龍宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T05:00:00;end:2021-05-07T07:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4924606,25.0288302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 約 06:00 青龍宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T05:00:00;end:2021-05-07T07:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.533093,25.028532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/07 約 06:00 青龍宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-07T05:00:00;end:2021-05-07T07:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.6887575,24.1436268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 約晚上 青龍宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T18:00:00;end:2021-05-08T23:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4924606,25.0288302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 約晚上 青龍宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T18:00:00;end:2021-05-08T23:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.533093,25.028532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 約晚上 青龍宮</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T18:00:00;end:2021-05-08T23:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            120.6887575,24.1436268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 約 18:30~19:30 小峨嵋川菜館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T18:00:00;end:2021-05-08T20:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.7458853,25.1329911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/08 17:30~23:30 良食小吃店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-08T17:30:00;end:2021-05-08T23:30:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4984589,25.0362396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09~05/10 約 15:00~24:00 銀河百家樂</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T14:00:00;end:2021-05-10T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.772005,24.6795451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09~05/10 約15:00~24:00 大地球遊藝場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T14:00:00;end:2021-05-10T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.754875,24.7572722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/09~05/10 約15:00~24:00 巨城電玩</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-09T14:00:00;end:2021-05-10T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.7708908,24.8266567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/10 15:00~23:00 楓香清茶館</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-10T14:00:00;end:2021-05-10T23:59:59]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4990718,25.0375942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/11 07:00~07:40 Q Burger 樹林千歲店</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-11T07:00:00;end:2021-05-11T07:40:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.425117,24.995689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/11 07:40~09:00 保安市場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-11T07:40:00;end:2021-05-11T09:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.429016,24.9949523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05/12 07:00~08:00 保安市場</name>
+        <description><![CDATA[#!metadata<br>begin:2021-05-12T07:00:00;end:2021-05-12T08:00:00]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.429016,24.9949523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
